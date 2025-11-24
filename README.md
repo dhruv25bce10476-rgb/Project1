@@ -1,4 +1,4 @@
-#Project : Digit Finding Program
+# Project : Digit Finding Program
 This is my first project on GitHub.
 
 ## What the project does?
